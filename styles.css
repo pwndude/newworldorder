@@ -70,3 +70,9 @@ footer {
   text-align: center;
   padding: 20px;
 }
+
+/* Adjust content spacing to accommodate fixed header */
+main {
+  margin-top: 80px;
+  /* Adjust as needed based on header height */
+}
